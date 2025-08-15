@@ -27,19 +27,19 @@ Create a responsive blog page using **Bootstrap 5 CDN** with a navbar, blog post
 3. You can replace the placeholder images and text with your own blog content.
 
 
-## 📚 How It Works
+##  How It Works
 - **Bootstrap CDN** is included in `<head>` for styling and responsiveness.
 - **Navbar**, **cards**, and **footer** use Bootstrap's ready-made classes.
 - **Bootstrap Icons** are used for social media links in the footer.
 - The layout adjusts automatically based on the screen size.
 
-## 📝 Customization
+##  Customization
 - Change the navbar brand name in the `<nav>` tag.
 - Replace image URLs in the `<img>` tags with your own blog images.
 - Update the text inside `<h5>` and `<p>` tags for blog content.
 - Modify colors and spacing using Bootstrap's **utility classes**.
 
-## 📄 License
+## License
 This project is open-source and free to use.
 
 ## Author 
